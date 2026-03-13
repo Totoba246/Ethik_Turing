@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.13)  13 MAR 2026 16:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.13)  13 MAR 2026 16:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1705,8 +1705,12 @@ you'd better type `E' or `X' now and fix your file.
 
 Package tocbasic Info: character protrusion at toc deactivated on input line 74.
 (dokumentation.toc
+Overfull \hbox (3.22041pt too wide) detected at line 5
+ []\T1/lmss/bx/n/12 VIII
+ []
+
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7.
- (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+(C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7.
@@ -1828,6 +1832,15 @@ Package babel Info: 'ngerman' activates 'german' shorthands.
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
  [2]
+ads/anleitung.tex:63: Undefined control sequence.
+l.63 \lipsum
+            [1]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 
 LaTeX Warning: Reference `fig:test' on page 3 undefined on input line 72.
 
@@ -1956,13 +1969,10 @@ chapter without number
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-(dokumentation.gls [18
-
-
-
-])
+No file dokumentation.gls.
 No complaints by nag.
-[19
+[18
+
 
 
 ] (dokumentation.aux)
@@ -1974,28 +1984,25 @@ L3 programming layer <2025-12-24>
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-
 Package logreq Info: Writing requests to 'dokumentation.run.xml'.
 \openout1 = `dokumentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 64025 strings out of 467871
- 1444907 string characters out of 5418376
- 2625422 words of memory out of 5000000
- 91587 multiletter control sequences out of 15000+600000
+ 64013 strings out of 467871
+ 1444624 string characters out of 5418376
+ 2625556 words of memory out of 5000000
+ 91581 multiletter control sequences out of 15000+600000
  734003 words of font info for 189 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 120i,14n,134p,11278b,3499s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 120i,14n,134p,11278b,3500s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{glo:Beispielglossar} has been referenced but does not exist, replaced by a fixed one
+
  <C:\Users\totob\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0800.pk> <C:\Users\totob\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro8.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on dokumentation.pdf (28 pages, 447678 bytes).
+Output written on dokumentation.pdf (27 pages, 446613 bytes).
 PDF statistics:
- 525 PDF objects out of 1000 (max. 8388607)
- 89 named destinations out of 1000 (max. 500000)
- 64428 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 517 PDF objects out of 1000 (max. 8388607)
+ 86 named destinations out of 1000 (max. 500000)
+ 64420 words of extra memory for PDF output out of 74296 (max. 10000000)
 
