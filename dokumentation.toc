@@ -1,13 +1,13 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Theoretischer Hintergrund: Von der Imitation zur echten Vernunft}{2}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Methodik}{3}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Reflexion}{4}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Fazit und Ausblick}{5}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Fazit}{5}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Ausblick}{5}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Abbildungen}{6}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Checkliste für deine Wissenschaftliche Arbeit}{7}{chapter.7}%
-\contentsline {chapter}{\nonumberline Literatur}{9}{chapter*.5}%
-\contentsline {chapter}{\nonumberline Anhang}{10}{chapter*.6}%
+\contentsline {chapter}{\numberline {3}Methodik: Operationalisierung der Vernunft-Kriterien}{3}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Reflexion}{5}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Fazit und Ausblick}{6}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Fazit}{6}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Ausblick}{6}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Abbildungen}{7}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Checkliste für deine Wissenschaftliche Arbeit}{8}{chapter.7}%
+\contentsline {chapter}{\nonumberline Literatur}{10}{chapter*.5}%
+\contentsline {chapter}{\nonumberline Anhang}{11}{chapter*.6}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

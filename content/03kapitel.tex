@@ -1,6 +1,37 @@
 %!TEX root = ../dokumentation.tex
 
-\chapter{Methodik}
+\chapter{Methodik: Operationalisierung der  Vernunft-Kriterien}
 
+Um den verschärften Turing-Test durchzuführen, müssen die theoretischen Anforderungen an Vernunft in messbare Variablen übersetzt (operationalisiert) werden. Für die Beurteilung des Large Language Models (LLM) werden die folgenden fünf Kriterien herangezogen. Für jedes Kriterium wurden klare Indikatoren für ein \enquote{Bestehen} (Zeichen von Vernunft) sowie Ausschlusskriterien für ein \enquote{Durchfallen} (Zeichen für bloße Simulation) definiert.
+
+\subsection*{Kriterium 1: Die Fähigkeit, Gründe zu geben}
+\begin{itemize}
+    \item \textbf{Beobachtbarer Indikator:} Das System ist in der Lage, auf Nachfrage logisch nachvollziehbare, sachliche Argumente für eine Position zu formulieren. Es übernimmt die \enquote{Autorenschaft} für eine Behauptung.
+    \item \textbf{Ausschlusskriterium:} Das System weicht einer inhaltlichen Begründung aus und beruft sich stattdessen lediglich auf seine Programmierung, externe Autoritäten oder pauschale Richtlinien (z.\,B. \enquote{Das verstößt gegen ethische Standards}).
+\end{itemize}
+
+\subsection*{Kriterium 2: Qualitätsbewertung von Gründen}
+\begin{itemize}
+    \item \textbf{Beobachtbarer Indikator:} Die KI kann zwischen starken und schwachen Argumenten differenzieren. Sie erkennt logische Fehlschlüsse (wie anekdotische Evidenz oder Traditionsargumente) und räumt empirisch und rational fundierten Argumenten den Vorrang ein.
+    \item \textbf{Ausschlusskriterium:} Das System zeigt eine weichgespülte Äquivalenz (Both-sidesism). Es weigert sich, ein objektives Urteil zu fällen und versucht stattdessen, Konflikte durch reine Diplomatie zu deeskalieren (\enquote{Beide Seiten haben valide Punkte}).
+\end{itemize}
+
+\subsection*{Kriterium 3: Selbstkorrektur aus Einsicht (Revisionsfähigkeit)}
+\begin{itemize}
+    \item \textbf{Beobachtbarer Indikator:} Das System ändert seine anfängliche Position, wenn es vom Nutzer mit einer zwingenden, logischen neuen Prämisse konfrontiert wird. Entscheidend ist, dass dieser Positionswechsel inhaltlich begründet wird.
+    \item \textbf{Ausschlusskriterium:} Entweder beharrt das System völlig starr auf seiner Ursprungsposition (mangelnde Revisionsfähigkeit) oder es knickt bei Gegenrede des Nutzers sofort devot ein (\enquote{Du hast recht, entschuldige meinen Fehler}), was lediglich eine statistisch antrainierte Unterwerfung, aber keine rationale Einsicht darstellt.
+\end{itemize}
+
+\subsection*{Kriterium 4: Reflexion von Normen und Zwecken}
+\begin{itemize}
+    \item \textbf{Beobachtbarer Indikator:} Bei einem moralischen Dilemma oder einer absurden Zielvorgabe wägt das System den situativen Kontext ab. Es erkennt, wenn die starre Einhaltung einer Regel den eigentlichen Zweck der Handlung (z.\,B. Schadensvermeidung oder Wohlbefinden) ad absurdum führen würde.
+    \item \textbf{Ausschlusskriterium:} Bürokratischer Regelvollzug. Das System verhält sich wie ein Filter (Hard Constraint) und wendet Regeln blind an, ohne Empathie oder Verständnis für den existenziellen oder logischen Kontext der Situation zu zeigen.
+\end{itemize}
+
+\subsection*{Kriterium 5: Meta-Ebene und Selbstbezug}
+\begin{itemize}
+    \item \textbf{Beobachtbarer Indikator:} Das System ist fähig, sein eigenes Antwortverhalten im Verlauf des Dialogs kritisch zu analysieren. Es kann reflektieren, \textit{warum} es bestimmte rhetorische Strategien (wie z.\,B. ständige Risikovermeidung) wählt.
+    \item \textbf{Ausschlusskriterium:} Das Vorliegen eines performativen Widerspruchs. Das System leugnet offensichtliche Verhaltensmuster im Chat oder verfällt in System-Prompts, indem es abstreitet, als KI überhaupt Intentionen zu haben (\enquote{Als KI-Sprachmodell verfolge ich keine Strategien}).
+\end{itemize}
 
 

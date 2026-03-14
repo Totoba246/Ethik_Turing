@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.13)  14 MAR 2026 13:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.13)  14 MAR 2026 14:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1761,15 +1761,24 @@ chapter 2.
 
 ]
 chapter 3.
-) (content/04kapitel.tex [3
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 9.
+(C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [3
 
-]
+{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]) (content/04kapitel.tex
+Package babel Info: 'ngerman' activates 'german' shorthands.
+(babel)             Reported on input line 3.
+
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [4]
 chapter 4.
-) (content/05kapitel.tex [4
+) (content/05kapitel.tex [5
 
 ]
 chapter 5.
-) (content/06kapitel.tex [5
+) (content/06kapitel.tex [6
 
 ]
 chapter 6.
@@ -1790,50 +1799,50 @@ File: images/dhbw.png Graphic file (type png)
 Package pdftex.def Info: images/dhbw.png  used on input line 35.
 (pdftex.def)             Requested size: 710.65326pt x 299.11676pt.
 
-LaTeX Warning: Citation 'Online.2022' on page 6 undefined on input line 37.
+LaTeX Warning: Citation 'Online.2022' on page 7 undefined on input line 37.
 
 
-LaTeX Warning: Citation 'Online.2022' on page 6 undefined on input line 37.
+LaTeX Warning: Citation 'Online.2022' on page 7 undefined on input line 37.
 
 File: images/dhbw.png Graphic file (type png)
 <use images/dhbw.png>
 Package pdftex.def Info: images/dhbw.png  used on input line 44.
 (pdftex.def)             Requested size: 710.65326pt x 299.11676pt.
-) (content/07kapitel.tex [6
+) (content/07kapitel.tex [7
 
 ]
 chapter 7.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 8.
-(C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [7
+[8
 
-{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}])
-Package babel Info: 'ngerman' activates 'german' shorthands.
-(babel)             Reported on input line 124.
-
+])
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [8]
+ [9]
 chapter without number
-(dokumentation.gls) [9
+(dokumentation.gls) [10
 
 
 
 ] (ads/appendix.tex
 chapter without number
-[10
+[11
 
 
 ]
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [11])
+ [12]
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [13]
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [14])
 No complaints by nag.
 
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [12{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] (dokumentation.aux)
+ [15] (dokumentation.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -1852,17 +1861,17 @@ Package logreq Info: Writing requests to 'dokumentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 63328 strings out of 467871
- 1435821 string characters out of 5418376
- 2599939 words of memory out of 5000000
- 91022 multiletter control sequences out of 15000+600000
- 702641 words of font info for 136 fonts, out of 8000000 for 9000
+ 63412 strings out of 467871
+ 1437067 string characters out of 5418376
+ 2599961 words of memory out of 5000000
+ 91034 multiletter control sequences out of 15000+600000
+ 704845 words of font info for 172 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  120i,10n,134p,11278b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri8.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on dokumentation.pdf (15 pages, 302867 bytes).
+<C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on dokumentation.pdf (18 pages, 315075 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
+ 242 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
  44758 words of extra memory for PDF output out of 51595 (max. 10000000)
 
