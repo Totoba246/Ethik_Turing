@@ -21,7 +21,7 @@
 \input{ads/glossary}
 
 \begin{document}
-
+\renewcommand{\thesection}{\arabic{section}}
 	% Deckblatt
 	\begin{spacing}{1}
 		\input{ads/deckblatt}
@@ -111,7 +111,7 @@
 
     
 	% Inhalt
-	\foreach \i in {01,02,03,04,05,06,07,08,09,...,99} {%
+	\foreach \i in {01,02,03,04} {%
 		\edef\FileName{content/\i kapitel}%
 			\IfFileExists{\FileName}{%
 				\input{\FileName}
@@ -125,7 +125,9 @@
 
 	% Literaturverzeichnis
 	\cleardoublepage
-	\printbibliography
+	\section*{Literaturverzeichnis}
+	\addcontentsline{toc}{section}{Literaturverzeichnis}
+	\printbibliography[heading=none]
 
 	% Glossar
 	\printglossary[style=altlist,title=\langglossar]{}
