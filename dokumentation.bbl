@@ -17,19 +17,25 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global/global}
-  \entry{Online.2022}{online}{}{}
+  \entry{WeilModul2}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=WF}{%
+         family={Weil},
+         familyi={W\bibinitperiod},
+         given={Felix},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WF1}
+    \strng{fullhash}{WF1}
+    \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{O}
-    \field{sortinithash}{O}
-    \field{note}{(zuletzt geprüft: 18.07.2023)}
-    \field{title}{Online Beispiel}
-    \verb{url}
-    \verb https://Link zur Quelle
-    \endverb
-    \field{year}{2022}
-    \field{urlday}{18}
-    \field{urlmonth}{07}
-    \field{urlyear}{2023}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{howpublished}{Vorlesungsfolien, DHBW Stuttgart}
+    \field{note}{Unveröffentlichtes Skript}
+    \field{title}{Ethik und Recht Intelligenter Systeme -- Modul 2: KI-Ethik}
+    \field{year}{2026}
   \endentry
 \enddatalist
 \endinput

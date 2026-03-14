@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.13)  13 MAR 2026 17:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.13)  14 MAR 2026 12:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1691,47 +1691,47 @@ Package microtype Info: Loading generic protrusion settings for font family
 ) [1]
 Package tocbasic Info: character protrusion at toc deactivated on input line 74.
  (dokumentation.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
  (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
  (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 7.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
  (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 7.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
  (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 7.
+(Font)              <12> on input line 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 7.
+(Font)              <8> on input line 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 7.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
+(Font)              <6> on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
  (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
  (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) [2
-
-])
+))
 \tf@toc=\write7
 \openout7 = `dokumentation.toc'.
 
- [3] (ads/acronyms.tex
-chapter without number
+ [2
+
+] (content/01kapitel.tex
+chapter 1.
 
 Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              Implementation of \float@addtolist became
@@ -1746,168 +1746,33 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              \float@addtolist interface has been
 (scrreprt)              removed from all KOMA-Script classes.
 
-) [4
-
-
-
-]
-Package tocbasic Info: character protrusion at lof deactivated on input line 86.
- (dokumentation.lof)
-\tf@lof=\write8
-\openout8 = `dokumentation.lof'.
-
- [5
-
-
-]
-Package tocbasic Info: character protrusion at lot deactivated on input line 90.
- (dokumentation.lot)
-\tf@lot=\write9
-\openout9 = `dokumentation.lot'.
-
- [6
-
-
-]
-Package tocbasic Info: character protrusion at lol deactivated on input line 94.
- (dokumentation.lol)
-\tf@lol=\write10
-\openout10 = `dokumentation.lol'.
-
- [7
-
-
-] (ads/anleitung.tex
-chapter 1.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-(C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd)
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 35.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 35.
-
-Overfull \hbox (0.56148pt too wide) in paragraph at lines 36--37
-\T1/lmr/m/n/12 (-20) me un-ter-schied-li-cher Pro-gram-me. Das Haupt-do-ku-ment (hier die Da-tei \T1/lmtt/m/n/12 dokumentation.tex\T1/lmr/m/n/12 (-20) )
- []
-
-Package acronym Info: Label `acro:DHBW' newly defined as it shall be overridden
-although it is yet undefined on input line 40.
-
+) (content/02kapitel.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47 S
-      oll einer Abbildung eine Quellenangabe zugefügt werden, bietet es sic... [1
+l.3 \chapter
+            {Theoretischer Hintergrund} [1
+
 
 
 ]
-Package babel Info: 'ngerman' activates 'german' shorthands.
-(babel)             Reported on input line 50.
-
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
-
- [2]
-
-LaTeX Warning: Reference `fig:test' on page 3 undefined on input line 72.
-
-
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
-
- [3]
-
-Package amsmath Warning: Foreign command \over;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 120.
-
-
-Class scrreprt Warning: deprecated old font command `\rm' used.
-(scrreprt)              You should note, that since 1994 LaTeX2e provides a
-(scrreprt)              new font selection scheme called NFSS2 with several
-(scrreprt)              new, combinable font commands. New KOMA-Script classes
-(scrreprt)              defined the old font commands like `\rm' only for
-(scrreprt)              compatibility with LaTeX 2.09 document styles of
-(scrreprt)              Script 2.0. These commands are deprecated and
-(scrreprt)              undocumented at least since 2003. Since 2013,
-(scrreprt)              KOMA-Script classes warned about soon removement of
-(scrreprt)              these deprecated commands. Now, after two decades of
-(scrreprt)              LaTeX2e, NFSS2, and KOMA-Script these commands will
-(scrreprt)              not work any longer. If loading a package results in
-(scrreprt)              this message you should contact the author of that
-(scrreprt)              package and ask him to replace the depracted font
-(scrreprt)              command `\rm', e.g., by `\mathrm '.
-(scrreprt)              Otherwise you should reconfigure or replace the
-(scrreprt)              package. If you have used the old font command
-(scrreprt)              `\rm' yourself you should replace it, e.g., by
-(scrreprt)              `\mathrm ' on input line 120.
-
-
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
-
- [4]
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
-
- [5{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
 chapter 2.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <24.88> on input line 156.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <20.74> on input line 156.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 159.
-(C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Underfull \hbox (badness 10000) in paragraph at lines 171--174
+) (content/03kapitel.tex [2
 
- []
-
-File: images/dhbw.png Graphic file (type png)
-<use images/dhbw.png>
-Package pdftex.def Info: images/dhbw.png  used on input line 185.
-(pdftex.def)             Requested size: 710.65326pt x 242.21144pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[6
-
-{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
-
- [7]
+]
 chapter 3.
-[8
+) (content/04kapitel.tex [3
 
-])
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
-
- [9] (content/01kapitel.tex
+]
 chapter 4.
-) (content/02kapitel.tex [10
+) (content/05kapitel.tex [4
 
 ]
 chapter 5.
-) (content/03kapitel.tex [11
+) (content/06kapitel.tex [5
 
 ]
 chapter 6.
-) (content/04kapitel.tex [12
-
-]
-chapter 7.
-) (content/05kapitel.tex [13
-
-]
-chapter 8.
-) (content/06kapitel.tex [14
-
-]
-chapter 9.
 File: images/dhbw.png Graphic file (type png)
 <use images/dhbw.png>
 Package pdftex.def Info: images/dhbw.png  used on input line 11.
@@ -1924,45 +1789,51 @@ File: images/dhbw.png Graphic file (type png)
 <use images/dhbw.png>
 Package pdftex.def Info: images/dhbw.png  used on input line 35.
 (pdftex.def)             Requested size: 710.65326pt x 299.11676pt.
+
+LaTeX Warning: Citation 'Online.2022' on page 6 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'Online.2022' on page 6 undefined on input line 37.
+
 File: images/dhbw.png Graphic file (type png)
 <use images/dhbw.png>
 Package pdftex.def Info: images/dhbw.png  used on input line 44.
 (pdftex.def)             Requested size: 710.65326pt x 299.11676pt.
-) (content/07kapitel.tex [15
+) (content/07kapitel.tex [6
 
 ]
-chapter 10.
-[16
+chapter 7.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 8.
+(C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [7
 
-])
+{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}])
+Package babel Info: 'ngerman' activates 'german' shorthands.
+(babel)             Reported on input line 124.
+
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [17]
+ [8]
 chapter without number
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/lmr/m/sc/12'.
-(microtype)             Ignoring protrusion settings for this character.
-(dokumentation.gls [18
+(dokumentation.gls) [9
 
-
-
-]) [19
 
 
 ] (ads/appendix.tex
 chapter without number
-[20
+[10
 
 
 ]
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [21])
+ [11])
 No complaints by nag.
 
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [22] (dokumentation.aux)
+ [12{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] (dokumentation.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -1971,22 +1842,27 @@ L3 programming layer <2025-12-24>
 
 LaTeX Warning: There were undefined references.
 
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                dokumentation
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'dokumentation.run.xml'.
 \openout1 = `dokumentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 64049 strings out of 467871
- 1445162 string characters out of 5418376
- 2625618 words of memory out of 5000000
- 91592 multiletter control sequences out of 15000+600000
- 742012 words of font info for 197 fonts, out of 8000000 for 9000
+ 63330 strings out of 467871
+ 1435838 string characters out of 5418376
+ 2598939 words of memory out of 5000000
+ 91023 multiletter control sequences out of 15000+600000
+ 702641 words of font info for 136 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 120i,14n,134p,11278b,3500s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\totob\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti0800.pk> <C:\Users\totob\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri8.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro8.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on dokumentation.pdf (30 pages, 490422 bytes).
+ 120i,10n,134p,11278b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri8.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
+Output written on dokumentation.pdf (15 pages, 303182 bytes).
 PDF statistics:
- 554 PDF objects out of 1000 (max. 8388607)
- 95 named destinations out of 1000 (max. 500000)
- 68532 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 244 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 44766 words of extra memory for PDF output out of 51595 (max. 10000000)
 
