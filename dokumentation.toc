@@ -1,7 +1,6 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Theoretischer Hintergrund}{2}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Unterschied klassischer vs. verschärfter Turing Test}{2}{section.2.1}%
+\contentsline {chapter}{\numberline {2}Theoretischer Hintergrund: Von der Imitation zur echten Vernunft}{2}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Methodik}{3}{chapter.3}%
 \contentsline {chapter}{\numberline {4}Reflexion}{4}{chapter.4}%
 \contentsline {chapter}{\numberline {5}Fazit und Ausblick}{5}{chapter.5}%
