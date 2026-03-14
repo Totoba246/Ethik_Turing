@@ -37,5 +37,27 @@
     \field{title}{Ethik und Recht Intelligenter Systeme -- Modul 2: KI-Ethik}
     \field{year}{2026}
   \endentry
+
+  \entry{WeilChat2025}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=WVdD}{%
+         family={Weil},
+         familyi={W\bibinitperiod},
+         given={[Vorname des\bibnamedelima Dozenten]},
+         giveni={V\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim
+  D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WVdD1}
+    \strng{fullhash}{WVdD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{note}{Unveröffentlichtes Lehrmaterial / Chat-Transkript vom 27.
+  Dezember 2025}
+    \field{title}{Chatprotokoll: Vernunft, Regeln und KI}
+    \field{year}{2025}
+  \endentry
 \enddatalist
 \endinput
