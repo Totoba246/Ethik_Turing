@@ -1,20 +1,20 @@
 # Fdb version 4
-["bibtex dokumentation"] 1773761515.22997 "dokumentation.aux" "dokumentation.bbl" "dokumentation" 1773761520.01819 0
+["bibtex dokumentation"] 1773761896.35261 "dokumentation.aux" "dokumentation.bbl" "dokumentation" 1773761906.01962 0
   "./bibliographie.bib" 1773416408 981 c68d6cd09fee7317a8af1b9d6f12d1e3 ""
-  "./dokumentation-blx.bib" 1773761518 342 20d1170ef6c1d70c658d70e011e08dba ""
+  "./dokumentation-blx.bib" 1773761904 342 20d1170ef6c1d70c658d70e011e08dba ""
   "./quellen.bib" 1773761156 1448 fcb211e4170060208c282757e3f677b2 ""
   "C:/Users/totob/AppData/Local/Programs/MiKTeX/bibtex/bst/biblatex/biblatex.bst" 1752408733 65510 9a2a51799b543ff279b8ea2dd91ec499 ""
-  "dokumentation.aux" 1773761518 6536 b3cd4309efd1a784e173e84bb3251157 "pdflatex"
+  "dokumentation.aux" 1773761904 5738 5d5e827d76e04563e88f3b52e7b2914b "pdflatex"
   (generated)
   "dokumentation.bbl"
   "dokumentation.blg"
   (rewritten before read)
-["cusdep glo gls dokumentation"] 1773760267.16642 "dokumentation.glo" "dokumentation.gls" "dokumentation" 1773761520.01744 0
-  "dokumentation.glo" 1773761517 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["cusdep glo gls dokumentation"] 1773761890.92834 "dokumentation.glo" "dokumentation.gls" "dokumentation" 1773761906.01912 0
+  "dokumentation.glo" 1773761903 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "dokumentation.gls"
   (rewritten before read)
-["pdflatex"] 1773761515.48916 "c:/Users/totob/Documents/DHBW/Ethik_Turing/dokumentation.tex" "dokumentation.pdf" "dokumentation" 1773761520.01942 0
+["pdflatex"] 1773761901.3861 "c:/Users/totob/Documents/DHBW/Ethik_Turing/dokumentation.tex" "dokumentation.pdf" "dokumentation" 1773761906.02057 0
   "C:/Users/totob/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1773750545 81107 70b8516c68c2e617189c5e44bfd16b96 ""
   "C:/Users/totob/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk" 1773416708 39120 b8d595c90b6fbd4a53bff2a74315d1d0 ""
   "C:/Users/totob/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1773416508 13333487 8d278ecbafae4a9dde041f0712b52807 ""
@@ -376,23 +376,23 @@
   "C:/Users/totob/AppData/Local/Programs/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
   "C:/Users/totob/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/totob/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "ads/appendix.tex" 1773758150 38418 46b331b0afa9f5e1c5251d5a9bde10c1 ""
+  "ads/appendix.tex" 1773761899 38423 254b71479e460aaade829adeb8d8d594 ""
   "ads/deckblatt.tex" 1773418222 1198 463fb10defd32c006082f4c4b5e55be9 ""
   "ads/einstellungen_liste.tex" 1773416408 521 68240c64f3bb48f50cbd7753cdbe47a8 ""
   "ads/erklaerung.tex" 1773761156 2780 0ac2393985958b304fc06486e712b866 ""
   "ads/glossary.tex" 1773416408 563 ec90bd52e4959ac810e55d0b53b5688f ""
   "ads/header.tex" 1773416408 7402 bb1dd34fa6468a5ee40b69dbd58645f8 ""
   "c:/Users/totob/Documents/DHBW/Ethik_Turing/dokumentation.tex" 1773756933 3526 ca79a1346acb43e32bf208bcfa938de6 ""
-  "content/01kapitel.tex" 1773761510 1099 0f2106d13cc159eab6b682593d8d584c ""
+  "content/01kapitel.tex" 1773761801 1099 4711f4a4bf3e60bd34e658b844cb875a ""
   "content/02kapitel.tex" 1773494459 1984 54c8ce13c85c831c573e393d86d895a0 ""
-  "content/03kapitel.tex" 1773761510 2689 7278c6751eabc651c776b4f48534a0a6 ""
-  "content/04kapitel.tex" 1773761156 6947 4970c33b501c06c1420e179c6f021a21 ""
-  "dokumentation.aux" 1773761518 6536 b3cd4309efd1a784e173e84bb3251157 "pdflatex"
-  "dokumentation.bbl" 1773761515 1760 d6105169d494534d0bede83125140e2b "bibtex dokumentation"
-  "dokumentation.gls" 1773760267 7 9f404503043ec80c08484be9f659189e "cusdep glo gls dokumentation"
-  "dokumentation.run.xml" 1773761518 2739 70a0723e18621e8a69579e3a6b9254b8 "pdflatex"
+  "content/03kapitel.tex" 1773761801 2690 ba918ca905e0268dd455e7cb14fbbed2 ""
+  "content/04kapitel.tex" 1773761801 6947 4970c33b501c06c1420e179c6f021a21 ""
+  "dokumentation.aux" 1773761904 5738 5d5e827d76e04563e88f3b52e7b2914b "pdflatex"
+  "dokumentation.bbl" 1773761896 1760 d6105169d494534d0bede83125140e2b "bibtex dokumentation"
+  "dokumentation.gls" 1773761891 7 9f404503043ec80c08484be9f659189e "cusdep glo gls dokumentation"
+  "dokumentation.run.xml" 1773761904 2739 70a0723e18621e8a69579e3a6b9254b8 "pdflatex"
   "dokumentation.tex" 1773756933 3526 ca79a1346acb43e32bf208bcfa938de6 ""
-  "dokumentation.toc" 1773761518 776 2fda846341470996f5e0b1bc86d9194b "pdflatex"
+  "dokumentation.toc" 1773761904 669 ec21446791630e6016d29bde8152e2d4 "pdflatex"
   "einstellungen.tex" 1773761510 5389 eec2dbecb2d3e1c16f94cec5ab1d0584 ""
   "images/dhbw.png" 1773416408 28036 72715f284b6ae369970da384742d8059 ""
   "lang/de.tex" 1773416408 796 f9e731463689c3f6eadaf84e0d5d3bdd ""
