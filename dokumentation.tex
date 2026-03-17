@@ -16,10 +16,33 @@
 %%**************************************************************
 
 \input{ads/header}
-\usepackage{tcolorbox}
-\tcbuselibrary{breakable}
 \makeglossaries
 \input{ads/glossary}
+
+
+% --- Chat-Boxen für den Anhang ---
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable} % <--- DAS IST DER ZAUBERBEFEHL!
+
+\newtcolorbox{userchat}{
+    colback=gray!15,
+    colframe=gray!15, 
+    arc=2mm, 
+    boxrule=0pt, 
+    left=3mm, right=3mm, top=3mm, bottom=3mm,
+    fontupper=\sffamily,
+    breakable % <--- Erlaubt den Seitenumbruch für den User
+}
+\newtcolorbox{kichat}{
+    colback=blue!5,
+    colframe=blue!5, 
+    arc=2mm, 
+    boxrule=0pt, 
+    left=3mm, right=3mm, top=3mm, bottom=3mm,
+    fontupper=\sffamily,
+    breakable % <--- Erlaubt den Seitenumbruch für die KI
+}
+% ---------------------------------
 
 \begin{document}
 \renewcommand{\thesection}{\arabic{section}}

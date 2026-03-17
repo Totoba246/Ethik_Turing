@@ -600,6 +600,12 @@ INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.st
 INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
 INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
 INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+OUTPUT dokumentation.glo
+INPUT .\ads\glossary.tex
+INPUT .\ads\glossary.tex
+INPUT .\ads\glossary.tex
+INPUT .\ads\glossary.tex
+INPUT ads\glossary.tex
 INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcolorbox.sty
 INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcolorbox.sty
 INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
@@ -611,12 +617,6 @@ INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspac
 INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbbreakable.code.tex
 INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\pdfcol\pdfcol.sty
 INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\pdfcol\pdfcol.sty
-OUTPUT dokumentation.glo
-INPUT .\ads\glossary.tex
-INPUT .\ads\glossary.tex
-INPUT .\ads\glossary.tex
-INPUT .\ads\glossary.tex
-INPUT ads\glossary.tex
 INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
 INPUT C:\Users\totob\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd

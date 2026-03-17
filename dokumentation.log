@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.13)  17 MAR 2026 13:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.13)  17 MAR 2026 15:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1491,7 +1491,13 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@delta=\dimen377
 \TX@cols=\count554
 \TX@ftn=\toks72
-)) (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+))
+\glswrite=\write5
+\glo@main@file=\write6
+\openout6 = `dokumentation.glo'.
+
+Package glossaries Info: Writing glossary file dokumentation.glo on input line 19.
+ (ads/glossary.tex) (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
 Package: tcolorbox 2025/11/28 version 6.9.0 text color boxes
  (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
@@ -1526,15 +1532,9 @@ Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@totalupperbox=\box124
 \tcb@totallowerbox=\box125
 )
-\glswrite=\write5
-\glo@main@file=\write6
-\openout6 = `dokumentation.glo'.
-
-Package glossaries Info: Writing glossary file dokumentation.glo on input line 21.
- (ads/glossary.tex)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 24.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 47.
  (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (dokumentation.aux
@@ -1543,37 +1543,37 @@ Package babel Info: 'ngerman' activates 'german' shorthands.
 )
 \openout1 = `dokumentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-Package nag Info: pgf.sty is broken: disabling dollar check on input line 24.
-Package nag Info: Command \bf not defined, skipping amendment on input line 24.
-Package nag Info: Command \it not defined, skipping amendment on input line 24.
-Package nag Info: Command \rm not defined, skipping amendment on input line 24.
-Package nag Info: Command \sc not defined, skipping amendment on input line 24.
-Package nag Info: Command \sf not defined, skipping amendment on input line 24.
-Package nag Info: Command \sl not defined, skipping amendment on input line 24.
-Package nag Info: Command \tt not defined, skipping amendment on input line 24.
-Package nag Info: Command \frontmatter not defined, skipping amendment on input line 24.
-Package nag Info: Command \mainmatter not defined, skipping amendment on input line 24.
-Package nag Info: Command \backmatter not defined, skipping amendment on input line 24.
-Package nag Info: Command \RaggedLeft not defined, skipping amendment on input line 24.
-Package nag Info: Command \RaggedRight not defined, skipping amendment on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+Package nag Info: pgf.sty is broken: disabling dollar check on input line 47.
+Package nag Info: Command \bf not defined, skipping amendment on input line 47.
+Package nag Info: Command \it not defined, skipping amendment on input line 47.
+Package nag Info: Command \rm not defined, skipping amendment on input line 47.
+Package nag Info: Command \sc not defined, skipping amendment on input line 47.
+Package nag Info: Command \sf not defined, skipping amendment on input line 47.
+Package nag Info: Command \sl not defined, skipping amendment on input line 47.
+Package nag Info: Command \tt not defined, skipping amendment on input line 47.
+Package nag Info: Command \frontmatter not defined, skipping amendment on input line 47.
+Package nag Info: Command \mainmatter not defined, skipping amendment on input line 47.
+Package nag Info: Command \backmatter not defined, skipping amendment on input line 47.
+Package nag Info: Command \RaggedLeft not defined, skipping amendment on input line 47.
+Package nag Info: Command \RaggedRight not defined, skipping amendment on input line 47.
  (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count558
@@ -1626,13 +1626,13 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 24.
-Package microtype Info: Applying patch `item' on input line 24.
-Package microtype Info: Applying patch `toc' on input line 24.
-Package microtype Info: Applying patch `eqnum' on input line 24.
-Package microtype Info: Applying patch `footnote' on input line 24.
-Package microtype Info: Applying patch `verbatim' on input line 24.
-LaTeX Info: Redefining \microtypesetup on input line 24.
+LaTeX Info: Redefining \microtypecontext on input line 47.
+Package microtype Info: Applying patch `item' on input line 47.
+Package microtype Info: Applying patch `toc' on input line 47.
+Package microtype Info: Applying patch `eqnum' on input line 47.
+Package microtype Info: Applying patch `footnote' on input line 47.
+Package microtype Info: Applying patch `verbatim' on input line 47.
+LaTeX Info: Redefining \microtypesetup on input line 47.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1653,7 +1653,7 @@ Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )))
 \c@lstlisting=\count564
-Package tocbasic Info: setting babel extension for `lol' on input line 24.
+Package tocbasic Info: setting babel extension for `lol' on input line 47.
 \scr@dte@lstlisting@maxnumwidth=\skip116
 
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
@@ -1663,7 +1663,7 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 !!! switch to italics
-Package hyperref Info: Link coloring ON on input line 24.
+Package hyperref Info: Link coloring ON on input line 47.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
 (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ngerman.lbx
@@ -1694,9 +1694,9 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'dokumentation.bbl' found.
  (dokumentation.bbl)
-Package biblatex Info: Reference section=0 on input line 24.
-Package biblatex Info: Reference segment=0 on input line 24.
-Package nag Info: Command \hc@caption not defined, skipping amendment on input line 24.
+Package biblatex Info: Reference section=0 on input line 47.
+Package biblatex Info: Reference segment=0 on input line 47.
+Package nag Info: Command \hc@caption not defined, skipping amendment on input line 47.
  (ads/deckblatt.tex
 <images/dhbw.png, id=33, 710.655pt x 299.1175pt>
 File: images/dhbw.png Graphic file (type png)
@@ -1723,7 +1723,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 ) [1]
-Package tocbasic Info: character protrusion at toc deactivated on input line 75.
+Package tocbasic Info: character protrusion at toc deactivated on input line 98.
  (dokumentation.toc
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2.
  (C:\Users\totob\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
@@ -1789,30 +1789,30 @@ Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
 Package hyperref Warning: Suppressing empty link on input line 49.
 
-) (content/04kapitel.tex)
+) (content/04kapitel.tex
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [4] (dokumentation.gls)
+ [4]
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [5
+ [5]
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [6])
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [7] (dokumentation.gls)
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [8
 
 
 ] (ads/appendix.tex
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [6
+ [9
 
 ]
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
-
- [7]
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
-
- [8]
-Overfull \vbox (7.89444pt too high) has occurred while \output is active []
-
- [9]
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
  [10]
@@ -1824,24 +1824,48 @@ Overfull \vbox (7.89444pt too high) has occurred while \output is active []
  [12]
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [13{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+ [13]
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
  [14]
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [15{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}])
+ [15{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
  [16]
-Overfull \vbox (14.43521pt too high) has occurred while \output is active []
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
+ [17{C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [18]
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [19]
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [20]
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [21]
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [22]
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [23]
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [24]
+Overfull \vbox (7.89444pt too high) has occurred while \output is active []
+
+ [25])
+No complaints by nag.
 
 Overfull \vbox (7.89444pt too high) has occurred while \output is active []
 
- [17]
-No complaints by nag.
-(dokumentation.aux)
+ [26] (dokumentation.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -1851,17 +1875,17 @@ Package logreq Info: Writing requests to 'dokumentation.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 65636 strings out of 467871
- 1497211 string characters out of 5418376
- 2660622 words of memory out of 5000000
- 93215 multiletter control sequences out of 15000+600000
- 698086 words of font info for 187 fonts, out of 8000000 for 9000
+ 65725 strings out of 467871
+ 1498423 string characters out of 5418376
+ 2660127 words of memory out of 5000000
+ 93253 multiletter control sequences out of 15000+600000
+ 700244 words of font info for 207 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  120i,10n,134p,11278b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\totob\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/totob/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on dokumentation.pdf (20 pages, 302559 bytes).
+Output written on dokumentation.pdf (29 pages, 341046 bytes).
 PDF statistics:
- 236 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 38582 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 287 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
+ 38598 words of extra memory for PDF output out of 42996 (max. 10000000)
 
