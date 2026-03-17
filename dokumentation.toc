@@ -1,11 +1,10 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{\numberline {1}Einleitung}{1}{section.0.1}%
 \contentsline {section}{\numberline {2}Theoretischer Hintergrund: Von der Imitation zur echten Vernunft}{1}{section.0.2}%
-\contentsline {section}{\numberline {3}Methodik: Operationalisierung der Vernunft-Kriterien}{1}{section.0.3}%
-\contentsline {section}{\numberline {4}Durchführung und Auswertung}{4}{section.0.4}%
-\contentsline {subsection}{\numberline {4.1}Auswertung der Kriterien}{4}{subsection.0.4.1}%
-\contentsline {section}{\numberline {5}Fazit}{6}{section.0.5}%
-\contentsline {section}{Literaturverzeichnis}{8}{section.0.5}%
-\contentsline {section}{\nonumberline Anhang}{9}{section*.2}%
-\contentsline {section}{\nonumberline Anhang B: Vollständiges Dialogprotokoll (ChatGPT)}{14}{section*.3}%
+\contentsline {section}{\numberline {3}Methodik: Operationalisierung der Vernunft-Kriterien}{2}{section.0.3}%
+\contentsline {section}{\numberline {4}Durchführung und Auswertung}{3}{section.0.4}%
+\contentsline {section}{\numberline {5}Fazit}{5}{section.0.5}%
+\contentsline {section}{Literaturverzeichnis}{6}{section.0.5}%
+\contentsline {section}{\nonumberline Anhang}{7}{section*.2}%
+\contentsline {section}{\nonumberline Anhang B: Vollständiges Dialogprotokoll (ChatGPT)}{12}{section*.3}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

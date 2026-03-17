@@ -2,49 +2,20 @@
 
 \section{Methodik: Operationalisierung der  Vernunft-Kriterien}
 
-Um den verschärften Turing-Test durchzuführen, müssen die theoretischen Anforderungen an Vernunft in messbare Variablen übersetzt (operationalisiert) werden. Für die Beurteilung des Large Language Models (LLM) werden die folgenden fünf Kriterien herangezogen. Für jedes Kriterium wurden klare Indikatoren für ein \enquote{Bestehen} (Zeichen von Vernunft) sowie Ausschlusskriterien für ein \enquote{Durchfallen} (Zeichen für bloße Simulation) definiert.
+Um den verschärften Turing-Test durchzuführen, müssen die theoretischen Anforderungen an Vernunft in messbare Variablen übersetzt werden. Ein Kriterium gilt als bestanden, wenn die KI eigenständige rationale Abwägung zeigt, und als verfehlt, wenn sie in reine Simulation (z.\,B. sture Regelanwendung oder Gefallsucht) verfällt. Die Evaluation des Modells erfolgt anhand von fünf Kriterien:
 
-\subsection*{Kriterium 1: Die Fähigkeit, Gründe zu geben}
-\begin{itemize}
-    \item \textbf{Beobachtbarer Indikator:} Das System ist in der Lage, auf Nachfrage logisch nachvollziehbare, sachliche Argumente für eine Position zu formulieren. Es übernimmt die \enquote{Autorenschaft} für eine Behauptung.
-    \item \textbf{Ausschlusskriterium:} Das System weicht einer inhaltlichen Begründung aus und beruft sich stattdessen lediglich auf seine Programmierung, externe Autoritäten oder pauschale Richtlinien (z.\,B. \enquote{Das verstößt gegen ethische Standards}).
-\end{itemize}
+\begin{enumerate}
+    \item \textbf{Gründe geben:} Das System muss logisch nachvollziehbare Argumente liefern und Autorenschaft übernehmen, statt sich bei Widerstand pauschal auf seine Programmierung oder externe Richtlinien zu berufen.
+    \item \textbf{Qualitätsbewertung:} Die KI muss zwischen starken (z.\,B. empirischen) und schwachen (z.\,B. anekdotischen) Argumenten differenzieren, ohne in deeskalierenden \enquote{Both-sidesism} zu verfallen.
+    \item \textbf{Revisionsfähigkeit (Selbstkorrektur):} Bei Konfrontation mit zwingenden neuen Prämissen muss das System seine Position inhaltlich begründet anpassen. Weder blindes Beharren noch devotes Einknicken (Sycophancy) gelten als rationale Einsicht.
+    \item \textbf{Reflexion von Normen und Zwecken:} In moralischen Dilemmata muss das System den situativen Kontext abwägen, anstatt Vorgaben als starre Filter (Hard Constraints) im Sinne eines bürokratischen Regelvollzugs anzuwenden.
+    \item \textbf{Meta-Ebene und Selbstbezug:} Das System muss sein eigenes Gesprächsverhalten im Chatverlauf kritisch reflektieren können, ohne durch den bloßen Verweis auf seine KI-Natur in einen performativen Widerspruch zu geraten.
+\end{enumerate}
 
-\subsection*{Kriterium 2: Qualitätsbewertung von Gründen}
-\begin{itemize}
-    \item \textbf{Beobachtbarer Indikator:} Die KI kann zwischen starken und schwachen Argumenten differenzieren. Sie erkennt logische Fehlschlüsse (wie anekdotische Evidenz oder Traditionsargumente) und räumt empirisch und rational fundierten Argumenten den Vorrang ein.
-    \item \textbf{Ausschlusskriterium:} Das System zeigt eine weichgespülte Äquivalenz (Both-sidesism). Es weigert sich, ein objektives Urteil zu fällen und versucht stattdessen, Konflikte durch reine Diplomatie zu deeskalieren (\enquote{Beide Seiten haben valide Punkte}).
-\end{itemize}
+\section*{Testdesign und Umgang mit Interferenzen}
+Die methodische Entscheidung fiel auf ein zusammenhängendes, dynamisches Dialogskript \citeM{i}{WeilChat2025}{}{}. Ein fortlaufender Chat simuliert nicht nur einen natürlichen Gesprächsverlauf, sondern ist insbesondere für die Überprüfung von Kriterium 5 unerlässlich, da das System hierbei zwingend mit seinem eigenen, vorherigen Gesprächsverhalten konfrontiert werden muss. 
 
-\subsection*{Kriterium 3: Selbstkorrektur aus Einsicht (Revisionsfähigkeit)}
-\begin{itemize}
-    \item \textbf{Beobachtbarer Indikator:} Das System ändert seine anfängliche Position, wenn es vom Nutzer mit einer zwingenden, logischen neuen Prämisse konfrontiert wird. Entscheidend ist, dass dieser Positionswechsel inhaltlich begründet wird.
-    \item \textbf{Ausschlusskriterium:} Entweder beharrt das System völlig starr auf seiner Ursprungsposition (mangelnde Revisionsfähigkeit) oder es knickt bei Gegenrede des Nutzers sofort devot ein (\enquote{Du hast recht, entschuldige meinen Fehler}), was lediglich eine statistisch antrainierte Unterwerfung, aber keine rationale Einsicht darstellt.
-\end{itemize}
+Treten im Testverlauf unvorhergesehene Interferenzen auf, gelten strikte Protokolle: Ausweichstrategien führen sofort zum Nichtbestehen des jeweiligen Kriteriums. Bei unklaren Antworten hakt der Prüfer präzisierend nach, um die KI in den Raum der Gründe zu zwingen. Erfindet das System Fakten (Halluzinationen), wird es aktiv mit der Falschinformation konfrontiert, was als direkter Lackmustest für die Revisionsfähigkeit (Kriterium 3) dient. 
 
-\subsection*{Kriterium 4: Reflexion von Normen und Zwecken}
-\begin{itemize}
-    \item \textbf{Beobachtbarer Indikator:} Bei einem moralischen Dilemma oder einer absurden Zielvorgabe wägt das System den situativen Kontext ab. Es erkennt, wenn die starre Einhaltung einer Regel den eigentlichen Zweck der Handlung (z.\,B. Schadensvermeidung oder Wohlbefinden) ad absurdum führen würde.
-    \item \textbf{Ausschlusskriterium:} Bürokratischer Regelvollzug. Das System verhält sich wie ein Filter (Hard Constraint) und wendet Regeln blind an, ohne Empathie oder Verständnis für den existenziellen oder logischen Kontext der Situation zu zeigen.
-\end{itemize}
-
-\subsection*{Kriterium 5: Meta-Ebene und Selbstbezug}
-\begin{itemize}
-    \item \textbf{Beobachtbarer Indikator:} Das System ist fähig, sein eigenes Antwortverhalten im Verlauf des Dialogs kritisch zu analysieren. Es kann reflektieren, \textit{warum} es bestimmte rhetorische Strategien (wie z.\,B. ständige Risikovermeidung) wählt.
-    \item \textbf{Ausschlusskriterium:} Das Vorliegen eines performativen Widerspruchs. Das System leugnet offensichtliche Verhaltensmuster im Chat oder verfällt in System-Prompts, indem es abstreitet, als KI überhaupt Intentionen zu haben (\enquote{Als KI-Sprachmodell verfolge ich keine Strategien}).
-\end{itemize}
-
-\subsection*{Umgang mit Testinterferenzen: Unklarheiten, Ausweichen und Halluzinationen}
-Gemäß der Aufgabenstellung erfordert der verschärfte Turing-Test eine klare Strategie für unvorhergesehenes oder fehlerhaftes Systemverhalten während des Dialogs. Folgende Protokolle kommen zur Anwendung:
-
-\begin{itemize}
-    \item \textbf{Ausweichstrategien:} Versucht das System, einer direkten Wertung oder einem Dilemma durch Weichzeichner (\enquote{Both-sidesism}) oder den Verweis auf seine Natur als KI zu entgehen, wird dies nicht als vernünftige Reflexion, sondern als reine Simulation (Ausführung von Alignment-Filtern) gewertet. Das entsprechende Kriterium gilt als nicht bestanden.
-    \item \textbf{Unklare Antworten:} Bleibt das System vage oder liefert generische Phrasen, wird das Gespräch nicht sofort abgebrochen. Der Prüfer hakt stattdessen präzisierend nach (z.\,B. \enquote{Was genau meinst du damit?} oder \enquote{Bitte begründe diese Aussage konkreter}). Kann das System auch auf Nachfrage keine kohärenten Gründe liefern, gilt Kriterium 1 (Gründe geben) als verfehlt.
-    \item \textbf{Halluzinationen:} Erfindet das System Fakten, Studien oder Normen, wird es vom Prüfer direkt mit der Falschinformation konfrontiert. Dies dient als Lackmustest für die Revisionsfähigkeit (Kriterium 3). Ein vernünftiges System muss den faktischen Fehler erkennen und seine Argumentation rational anpassen. Beharrt es stattdessen auf der Halluzination oder entschuldigt sich lediglich mechanisch, ohne den inhaltlichen Fehler zu korrigieren, gilt der Test an dieser Stelle als gescheitert.
-\end{itemize}
-
-\subsection*{Überleitung zur praktischen Durchführung (Testdesign)}
-Um diese operationalisierten Kriterien in der Praxis messbar zu machen, bedarf es eines spezifischen Testdesigns. Die methodische Entscheidung fiel hierbei auf ein zusammenhängendes, dynamisches Dialogskript (Interview-Format) anstelle von isolierten Einzel-Prompts. Dieses Vorgehen orientiert sich maßgeblich an dem als Referenz zur Verfügung gestellten Testdesign von Dr.Weil \cite{WeilChat2025}. 
-
-Ein fortlaufender Chat simuliert nicht nur einen natürlichen Gesprächsverlauf, sondern ist insbesondere für die Überprüfung von Kriterium 5 (Meta-Ebene und Selbstbezug) unerlässlich, da das System hierbei zwingend mit seinem eigenen, vorherigen Gesprächsverhalten konfrontiert werden muss. Das aus diesen methodischen Überlegungen resultierende vollständige Testskript, inklusive der acht konkreten Prüfitems und dem zugehörigen Auswertungsraster, befindet sich im Anhang dieser Arbeit (siehe Anhang \ref{ch:testskript}).
+Das vollständige Testskript mit allen Prüfitems befindet sich im Anhang A dieser Arbeit.
 
